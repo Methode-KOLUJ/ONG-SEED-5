@@ -75,7 +75,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="/"
+                  href="+1(613)2192671"
                   className="font-bold text-xl flex items-center gap-2 dark:text-white text-gray-600 hover:text-green-500 dark:hover:text-green-500">
                   <FaPhone size={22} />
                   <span>Appel</span>
