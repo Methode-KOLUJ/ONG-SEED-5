@@ -57,7 +57,7 @@ const Footer = () => {
             <ul className="mt-4 space-y-4 flex flex-col items-center">
               <li>
                 <a
-                  href="/"
+                  href="https://wa.me/+16132192671"
                   className="font-bold text-xl flex items-center gap-2 dark:text-gray-100 text-gray-600 hover:text-teal-500 dark:hover:text-teal-500"
                   target="_blank"
                   rel="noopener noreferrer">
